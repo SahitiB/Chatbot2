@@ -1,0 +1,30 @@
+OpenAI(temperature=0, top_p=0.2, presence_penalty=0.4, frequency_penalty=0.2)
+
+
+Does ACWD have smart meters
+Which cities does it serve
+How do I handle discolored water
+how can I reduce my bill
+What is gray water
+Is water drinkable
+How often is the bill due
+Are there any contests for students
+What rebates are being offered to me
+who all are in board of directors
+Can I choose the water plan 
+Where can I find board meeting minutes
+how can I contact ACWD
+Where is office of ACWD
+HOw do I detect leaks in my house
+
+
+
+
+
+
+how should I pay my bill - responses refer to links but urls are missing; no sources
+What are benefits of smart meters
+
+Todo 
+1. check context from last n transaction is carried over
+
